@@ -1,3 +1,4 @@
+Probando títulos de markdown!
 # Esto es un título
 ## Esto es un título de subnivel
 ### Y así otro título
@@ -5,4 +6,7 @@
 ##### No hay quinto malo!
 ###### Por fin, ultimo.
 
-Solo estoy probando títulos de markdown!
+
+# Ahora prueba la incorporación de imágenes...
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of GRISM Technologies](https://grism.co/wp-content/uploads/2020/01/website.png)
