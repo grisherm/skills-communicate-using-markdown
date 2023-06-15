@@ -10,3 +10,18 @@ Probando títulos de markdown!
 # Ahora prueba la incorporación de imágenes...
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of GRISM Technologies](https://grism.co/wp-content/uploads/2020/01/website.png)
+
+# Ahora pruebo adicionar código...
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+````
+  javascript
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-1841319-1');
+  </script>
+````
