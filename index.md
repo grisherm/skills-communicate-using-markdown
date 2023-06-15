@@ -25,3 +25,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
     gtag('config', 'UA-1841319-1');
   </script>
 ````
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
